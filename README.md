@@ -1,4 +1,4 @@
-📡 Network Guardian
+📡 THE-GUARDIAN
 
 Sistema de monitoramento de rede desenvolvido em Python para coleta de métricas de conectividade, latência e disponibilidade de hosts.
 
@@ -23,6 +23,8 @@ Preparação para observabilidade (Grafana / InfluxDB)
 
 
 🏗️ Arquitetura atual
+
+
 <img width="525" height="584" alt="image" src="https://github.com/user-attachments/assets/0f47c86f-c4fa-47d9-9049-4ed50cda62c2" />
 
 
@@ -46,7 +48,7 @@ scheduler
 main entrypoint
 
 📦 Exemplo de saída
-🚀 Network Guardian iniciado...
+== THE GUARDIAN ==
 
 🟢 1.1.1.1 - 18.2 ms
 🟢 8.8.8.8 - 19.1 ms
