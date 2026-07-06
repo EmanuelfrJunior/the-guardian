@@ -4,7 +4,7 @@ Sistema de monitoramento de rede desenvolvido em Python para coleta de métricas
 
 🚀 Visão geral
 
-O Network Guardian é um agente de monitoramento que roda continuamente em um servidor Linux e realiza testes de rede como:
+O THE GUARDIAN é um agente de monitoramento que roda continuamente em um servidor Linux e realiza testes de rede como:
 
 Ping em múltiplos hosts
 Medição de latência (ms)
@@ -64,6 +64,8 @@ psutil (futuro uso)
 python-dotenv
 Git / GitHub
 Linux (Ubuntu em Proxmox)
+
+
 🧠 Conceitos aplicados
 Estrutura de agentes (daemons simples)
 Monitoramento de rede via ICMP
