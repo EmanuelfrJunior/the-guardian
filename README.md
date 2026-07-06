@@ -23,22 +23,8 @@ Preparação para observabilidade (Grafana / InfluxDB)
 
 
 🏗️ Arquitetura atual
-network-guardian/
-│
-├── app/
-│   ├── collectors/
-│   │   └── ping.py          # Coleta de latência via ping
-│   │
-│   ├── scheduler/
-│   │   └── scheduler.py     # Loop principal do agente
-│   │
-│   └── __init__.py
-│
-├── main.py                  # Entry point do agente
-├── requirements.txt        # Dependências Python
-├── .env                    # Variáveis de ambiente (não versionado)
-├── .gitignore              # Arquivos ignorados pelo Git
-└── README.md
+<img width="525" height="584" alt="image" src="https://github.com/user-attachments/assets/0f47c86f-c4fa-47d9-9049-4ed50cda62c2" />
+
 
 
 ⚙️ Funcionalidades implementadas
